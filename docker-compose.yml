@@ -60,7 +60,7 @@ services:
 
   parser_api:
     build:
-      context: ./parserAPI
+      context: parser_api
       dockerfile: Dockerfile
     container_name: parser_api_service
     environment:
@@ -71,7 +71,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./parserAPI:/app
+      - ./parser_api:/app
     command: ["uvicorn", "parser_api:app", "--host", "0.0.0.0", "--port", "8000"]
 
 volumes:
