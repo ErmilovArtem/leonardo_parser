@@ -19,7 +19,6 @@ COOKIES = {
     "client": "75ae26a2a6c6937b2788f1d384c4a88cfc3f195c",
     "count": "120",
     "sort": "newtimedown",
-    # Добавляйте остальные куки
 }
 
 BASE_URL = "https://leonardo.ru"
