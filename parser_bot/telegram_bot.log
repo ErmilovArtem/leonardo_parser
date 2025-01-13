@@ -1,0 +1,183 @@
+2025-01-13 21:01:16,361 - INFO - Запуск Telegram-бота.
+2025-01-13 21:01:16,724 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getMe "HTTP/1.1 200 OK"
+2025-01-13 21:01:16,783 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/deleteWebhook "HTTP/1.1 200 OK"
+2025-01-13 21:01:16,784 - INFO - Application started
+2025-01-13 21:01:22,545 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 21:01:22,547 - INFO - Запрос на получение данных по ID товара: 64945133094
+2025-01-13 21:01:22,643 - INFO - Данные успешно получены для ID товара 64945133094: {'id': 1, 'product_name': '"CRETACOLOR" Artist Studio Line Набор для кал', 'category_id': 1, 'brand': '"CRETACOLOR"', 'sku': '64945133094', 'features': {'Бренд': '"CRETACOLOR"', 'Страна происхождения': 'Австрия', 'Тип товара': 'Перо', 'Артикул наименования': 'CC431 97', 'Вид пера': 'широконечное'}, 'description': 'Набор для каллиграфии из 7 предметов - отличный выбор для тех, кто хочет попробовать свои силы в искусстве красивого письма. В наборе есть всё самое необходимое для оттачивания навыков и разнообразия в работе: перьевая ручка, как основной инструмент для письма; три сменных пера различной толщины, 2 картриджа.Сообщить о неточности в описании', 'photo': '//images.firma-gamma.ru/images/d/4/d64945133094l.jpg', 'stock': True, 'price': 2170}
+2025-01-13 21:01:22,916 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 21:03:35,986 - INFO - Запуск Telegram-бота.
+2025-01-13 21:03:36,371 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getMe "HTTP/1.1 200 OK"
+2025-01-13 21:03:36,452 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/deleteWebhook "HTTP/1.1 200 OK"
+2025-01-13 21:03:36,453 - INFO - Application started
+2025-01-13 21:03:44,728 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 21:03:44,729 - INFO - Запрос на получение данных по ID товара: 64945133094
+2025-01-13 21:03:44,833 - INFO - Данные успешно получены для ID товара 64945133094: {'id': 1, 'product_name': '"CRETACOLOR" Artist Studio Line Набор для кал', 'category_id': 1, 'brand': '"CRETACOLOR"', 'sku': '64945133094', 'features': {'Бренд': '"CRETACOLOR"', 'Страна происхождения': 'Австрия', 'Тип товара': 'Перо', 'Артикул наименования': 'CC431 97', 'Вид пера': 'широконечное'}, 'description': 'Набор для каллиграфии из 7 предметов - отличный выбор для тех, кто хочет попробовать свои силы в искусстве красивого письма. В наборе есть всё самое необходимое для оттачивания навыков и разнообразия в работе: перьевая ручка, как основной инструмент для письма; три сменных пера различной толщины, 2 картриджа.Сообщить о неточности в описании', 'photo': '//images.firma-gamma.ru/images/d/4/d64945133094l.jpg', 'stock': True, 'price': 2170}
+2025-01-13 21:03:45,053 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 21:03:54,891 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 21:04:14,897 - INFO - Запуск Telegram-бота.
+2025-01-13 21:04:15,203 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getMe "HTTP/1.1 200 OK"
+2025-01-13 21:04:15,259 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/deleteWebhook "HTTP/1.1 200 OK"
+2025-01-13 21:04:15,260 - INFO - Application started
+2025-01-13 21:04:23,805 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 21:04:23,807 - INFO - Запрос на получение данных по ID товара: 64945133094
+2025-01-13 21:04:23,814 - INFO - Данные успешно получены для ID товара 64945133094: {'id': 1, 'product_name': '"CRETACOLOR" Artist Studio Line Набор для кал', 'category_id': 1, 'brand': '"CRETACOLOR"', 'sku': '64945133094', 'features': {'Бренд': '"CRETACOLOR"', 'Страна происхождения': 'Австрия', 'Тип товара': 'Перо', 'Артикул наименования': 'CC431 97', 'Вид пера': 'широконечное'}, 'description': 'Набор для каллиграфии из 7 предметов - отличный выбор для тех, кто хочет попробовать свои силы в искусстве красивого письма. В наборе есть всё самое необходимое для оттачивания навыков и разнообразия в работе: перьевая ручка, как основной инструмент для письма; три сменных пера различной толщины, 2 картриджа.Сообщить о неточности в описании', 'photo': '//images.firma-gamma.ru/images/d/4/d64945133094l.jpg', 'stock': True, 'price': 2170}
+2025-01-13 21:04:24,037 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 21:04:33,872 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:44:37,220 - INFO - Запуск Telegram-бота.
+2025-01-13 22:44:37,548 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getMe "HTTP/1.1 200 OK"
+2025-01-13 22:44:37,608 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/deleteWebhook "HTTP/1.1 200 OK"
+2025-01-13 22:44:37,609 - INFO - Application started
+2025-01-13 22:44:47,809 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:44:56,728 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:44:56,729 - INFO - Получена команда /start.
+2025-01-13 22:44:56,917 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:01,943 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:01,944 - INFO - Запрос на получение данных по ID товара: 1231231231
+2025-01-13 22:45:02,069 - WARNING - Товар с ID 1231231231 не найден.
+2025-01-13 22:45:02,471 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:05,717 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:05,718 - INFO - Запрос на получение данных по ID товара: 0
+2025-01-13 22:45:05,725 - WARNING - Товар с ID 0 не найден.
+2025-01-13 22:45:05,825 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:08,212 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:08,213 - WARNING - Получен некорректный ID: е
+2025-01-13 22:45:08,302 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:11,138 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:11,139 - WARNING - Получен некорректный ID: кпулотпу
+2025-01-13 22:45:11,224 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:18,609 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:18,610 - WARNING - Получен некорректный ID: ооа
+2025-01-13 22:45:19,085 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:19,203 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:19,203 - WARNING - Получен некорректный ID: 3лахзпл3
+2025-01-13 22:45:19,309 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:19,672 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:19,674 - WARNING - Получен некорректный ID: 4зпл3злп
+2025-01-13 22:45:19,829 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:20,669 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:20,670 - WARNING - Получен некорректный ID: х3злп3х4лп
+2025-01-13 22:45:20,752 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:22,533 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:22,534 - INFO - Запрос на получение данных по ID товара: 1231
+2025-01-13 22:45:22,540 - WARNING - Товар с ID 1231 не найден.
+2025-01-13 22:45:22,644 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:22,928 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:22,928 - INFO - Запрос на получение данных по ID товара: 31
+2025-01-13 22:45:22,934 - WARNING - Товар с ID 31 не найден.
+2025-01-13 22:45:23,044 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,070 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,071 - INFO - Запрос на получение данных по ID товара: 31
+2025-01-13 22:45:23,077 - WARNING - Товар с ID 31 не найден.
+2025-01-13 22:45:23,178 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,248 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,248 - INFO - Запрос на получение данных по ID товара: 3
+2025-01-13 22:45:23,253 - WARNING - Товар с ID 3 не найден.
+2025-01-13 22:45:23,373 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,581 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,582 - INFO - Запрос на получение данных по ID товара: 131
+2025-01-13 22:45:23,588 - WARNING - Товар с ID 131 не найден.
+2025-01-13 22:45:23,683 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,692 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,693 - INFO - Запрос на получение данных по ID товара: 3
+2025-01-13 22:45:23,697 - WARNING - Товар с ID 3 не найден.
+2025-01-13 22:45:23,846 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,878 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:23,878 - INFO - Запрос на получение данных по ID товара: 1
+2025-01-13 22:45:23,883 - WARNING - Товар с ID 1 не найден.
+2025-01-13 22:45:24,061 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:26,310 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:26,310 - WARNING - Получен некорректный ID: 31й=
+2025-01-13 22:45:26,456 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/sendMessage "HTTP/1.1 200 OK"
+2025-01-13 22:45:36,371 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:46,464 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:45:56,522 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:46:06,727 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:46:16,806 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:46:26,871 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:46:36,957 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:46:47,025 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:46:57,151 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:47:07,208 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:47:17,272 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:47:27,322 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:47:37,389 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:47:47,450 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:47:57,510 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:48:07,578 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:48:17,631 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:48:27,689 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:48:37,741 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:48:47,825 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:48:57,927 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:49:07,993 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:49:18,057 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:49:28,127 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:49:38,182 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:49:48,242 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:49:58,306 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:50:08,358 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:50:18,411 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:50:28,478 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:50:38,536 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:50:48,594 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:50:58,645 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:51:08,700 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:51:18,760 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:51:28,812 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:51:38,898 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:51:48,958 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:51:59,008 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:52:09,059 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:52:19,393 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:52:29,444 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:52:39,496 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:52:49,563 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:52:59,648 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:53:09,713 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:53:19,770 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:53:29,833 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:53:39,959 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:53:50,037 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:54:00,126 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:54:10,187 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:54:20,242 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:54:30,293 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:54:40,344 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:54:50,400 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:55:00,456 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:55:10,802 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:55:20,877 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:55:30,961 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:55:41,010 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:55:51,065 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:56:01,300 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:56:11,351 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:56:21,469 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:56:31,847 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:56:41,898 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:56:51,953 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:57:02,001 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:57:12,060 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:57:22,108 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:57:32,158 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:57:42,210 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:57:52,260 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:58:02,309 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:58:12,367 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:58:22,430 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:58:32,537 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:58:42,585 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:58:52,632 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:59:02,684 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:59:12,738 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:59:22,794 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:59:32,871 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:59:42,927 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 22:59:52,979 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 23:00:03,075 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 23:00:13,132 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 23:00:23,183 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 23:00:26,329 - INFO - HTTP Request: POST https://api.telegram.org/bot7970568882:AAHhmjdO5TqtD_zMmBzN2PxZsS-TBvw29ZM/getUpdates "HTTP/1.1 200 OK"
+2025-01-13 23:00:26,329 - INFO - Application is stopping. This might take a moment.
+2025-01-13 23:00:26,329 - INFO - Application.stop() complete

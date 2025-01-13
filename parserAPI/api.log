@@ -1,0 +1,44 @@
+2025-01-13 21:00:21,063 - INFO - CategoryItem найден для SKU: 64945133094.
+2025-01-13 21:00:21,063 - INFO - Успешно возвращён объект для SKU 64945133094.
+2025-01-13 21:01:22,639 - INFO - CategoryItem найден для SKU: 64945133094.
+2025-01-13 21:01:22,639 - INFO - Успешно возвращён объект для SKU 64945133094.
+2025-01-13 21:03:44,830 - INFO - CategoryItem найден для SKU: 64945133094.
+2025-01-13 21:03:44,830 - INFO - Успешно возвращён объект для SKU 64945133094.
+2025-01-13 21:04:23,813 - INFO - CategoryItem найден для SKU: 64945133094.
+2025-01-13 21:04:23,813 - INFO - Успешно возвращён объект для SKU 64945133094.
+2025-01-13 22:45:02,066 - WARNING - CategoryItem не найден для SKU: 1231231231.
+2025-01-13 22:45:02,066 - WARNING - Запрос на SKU 1231231231: CategoryItem не найден.
+2025-01-13 22:45:02,067 - ERROR - HTTP ошибка для SKU 1231231231: CategoryItem not found
+2025-01-13 22:45:02,067 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:05,722 - WARNING - CategoryItem не найден для SKU: 0.
+2025-01-13 22:45:05,722 - WARNING - Запрос на SKU 0: CategoryItem не найден.
+2025-01-13 22:45:05,722 - ERROR - HTTP ошибка для SKU 0: CategoryItem not found
+2025-01-13 22:45:05,723 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:22,538 - WARNING - CategoryItem не найден для SKU: 1231.
+2025-01-13 22:45:22,538 - WARNING - Запрос на SKU 1231: CategoryItem не найден.
+2025-01-13 22:45:22,538 - ERROR - HTTP ошибка для SKU 1231: CategoryItem not found
+2025-01-13 22:45:22,539 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:22,932 - WARNING - CategoryItem не найден для SKU: 31.
+2025-01-13 22:45:22,933 - WARNING - Запрос на SKU 31: CategoryItem не найден.
+2025-01-13 22:45:22,933 - ERROR - HTTP ошибка для SKU 31: CategoryItem not found
+2025-01-13 22:45:22,933 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:23,075 - WARNING - CategoryItem не найден для SKU: 31.
+2025-01-13 22:45:23,075 - WARNING - Запрос на SKU 31: CategoryItem не найден.
+2025-01-13 22:45:23,075 - ERROR - HTTP ошибка для SKU 31: CategoryItem not found
+2025-01-13 22:45:23,075 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:23,252 - WARNING - CategoryItem не найден для SKU: 3.
+2025-01-13 22:45:23,252 - WARNING - Запрос на SKU 3: CategoryItem не найден.
+2025-01-13 22:45:23,252 - ERROR - HTTP ошибка для SKU 3: CategoryItem not found
+2025-01-13 22:45:23,252 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:23,586 - WARNING - CategoryItem не найден для SKU: 131.
+2025-01-13 22:45:23,586 - WARNING - Запрос на SKU 131: CategoryItem не найден.
+2025-01-13 22:45:23,586 - ERROR - HTTP ошибка для SKU 131: CategoryItem not found
+2025-01-13 22:45:23,587 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:23,695 - WARNING - CategoryItem не найден для SKU: 3.
+2025-01-13 22:45:23,695 - WARNING - Запрос на SKU 3: CategoryItem не найден.
+2025-01-13 22:45:23,696 - ERROR - HTTP ошибка для SKU 3: CategoryItem not found
+2025-01-13 22:45:23,696 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found
+2025-01-13 22:45:23,882 - WARNING - CategoryItem не найден для SKU: 1.
+2025-01-13 22:45:23,882 - WARNING - Запрос на SKU 1: CategoryItem не найден.
+2025-01-13 22:45:23,882 - ERROR - HTTP ошибка для SKU 1: CategoryItem not found
+2025-01-13 22:45:23,882 - ERROR - Ошибка при создании сессии базы данных: 404: CategoryItem not found

@@ -1,0 +1,78 @@
+JivoSiteLoaded	1product_name :
+<h1 class="f24 card__title">
+        "VISTA-ARTISTA" PWG-A220 Папка с бумагой для акварели 200 г/м2 A2 60 х 42 см папка 20 л. "Лодочки" гознак тисненая
+    </h1>
+brand VISTA-ARTISTA в данном случае:
+первый card__about-td
+<div class="card__about-td"><a href="/ishop/brands/vista-artista/" class="blue-link">"VISTA-ARTISTA"</a></div>
+
+features:
+Внутри div с id = tabs
+JSON - card__about-th[index] : card__about-td[index]
+
+descriptiom: div class=tabs__content содержит ещё один div с описанием
+
+photo, сохранить ссылку:
+<a itemscope="" itemtype="http://schema.org/ImageObject" href="//images.firma-gamma.ru/images/0/5/g132573450844.jpg" class="big-image-wrapper" rel="lyteshow" style="position: relative;"><img class="big-image" itemprop="contentUrl" src="//images.firma-gamma.ru/images/0/5/g132573450844.jpg" alt="VISTA-ARTISTA PWG-A220 Папка с бумагой для акварели 200 г/м2 A2 60 х 42 см папка 20 л. Лодочки гознак тисненая Фото 1."></a>
+
+stock:
+div delivery-table Если есть в элементе "сегодня" или "завтра" в бд сохраняем 1, иначе 0
+
+price:
+<p class="price">
+                        769 <span class="ruble-icon">₽</span>
+
+                    </p>leonardo.ru	/	2025-01-12T13:49:10.000Z	15						Medium
+L	Vhl0aX5+CQBhdlBEBHhbRnpyUEAJdVxKVj89CgMGADpQbXI=.1718692556.15777.385658.6605e6c0f527a8babbcabe3a0d459370	.yandex.ru	/	2025-07-23T06:35:54.133Z	106						Medium
+PHPSESSID	nkdf0chtqphr55kt0cqr7udjnu	.leonardo.ru	/	2025-01-11T14:18:02.936Z	35		✓	Lax			Medium
+Session_id	3:1736451565.5.0.1710921309676:UyWolzNJuIyBHDADoB8AKg:1.1.2:1|1918876230.7771247.2.2:7771247.3:1718692556|3:10301041.933941.1r4D4ZTMYSLqRGcvldihXryzbWM	.yandex.ru	/	2026-02-13T19:39:21.783Z	161	✓	✓	None			Medium
+_ga	GA1.1.729973931.1712940258	.yandex.net	/	2025-05-17T16:44:52.636Z	29		✓	None			Medium
+_ga_PLRTBHGSEL	GS1.1.1712940257.1.1.1712940292.25.0.1993651985	.yandex.net	/	2025-05-17T16:44:52.636Z	61		✓	None			Medium
+_yasc	XR+6ODqwrj/Dct8pvq1y4+DYyEQ1tuxel0jj0dBazvhjMqd4RrRIMdSA+I3QxSRWiHRWBA==	.yandex.ru	/	2026-02-14T15:24:58.877Z	77		✓				Medium
+_yasc	NnpoPoW6+WHjsiT+awG6JWo6W2Sg8Wl4ywQapm3wPRqk78SfOlkK7DyOzRv7mH9v	.yandex.ru	/	2026-02-15T09:49:13.184Z	69		✓
+Medium
+_ym_d	1726767605	.yandex.ru	/	2025-09-19T17:40:04.000Z	15		✓	None			Medium
+_ym_d	1729937361	.leonardo.ru	/	2025-10-26T10:09:21.000Z	15		✓	None			Medium
+_ym_isad	1	.yandex.ru	/	2025-01-11T10:13:31.000Z	9		✓	None			Medium
+_ym_isad	1	.leonardo.ru	/	2025-01-11T10:18:03.000Z	9		✓	None			Medium
+_ym_uid	1729937361852471791	.leonardo.ru	/	2025-10-26T10:09:21.000Z	26		✓	None			Medium
+_ym_uid	1693945517614690194	.yandex.ru	/	2025-09-19T17:40:04.000Z	26		✓	None			Medium
+_ym_visorc	w	.leonardo.ru	/	2025-01-11T10:19:11.000Z	11		✓	None			Medium
+_ymab_param	Xe7XqxVwyiFGGWalAe8jKmgy0vFErMxzL7MMDHV8u60k_2UycTpm-Lbc_v8iu2gVZzT2u9yI1iB43ue9cwORLH5IFSo	leonardo.ru	/	2026-01-11T09:49:11.365Z	102		✓	None			Medium
+amcuid	4793936471706709945	.yandex.ru	/	2025-01-30T14:05:42.969Z	25		✓	None			Medium
+bh	EkEiR29vZ2xlIENocm9tZSI7dj0iMTMxIiwgIkNocm9taXVtIjt2PSIxMzEiLCAiTm90X0EgQnJhbmQiO3Y9IjI0IhoFIng4NiIiDyIxMjYuMC42NDc4LjYxIioCPzA6CSJXaW5kb3dzIkIIIjEwLjAuMCJKBCI2NCJSWSJOb3QvQSlCcmFuZCI7dj0iOC4wLjAuMCIsIkNocm9taXVtIjt2PSIxMjYuMC42NDc4LjYxIiwiR29vZ2xlIENocm9tZSI7dj0iMTI2LjAuNjQ3OC42MSIiYIv7iLwGah7cyuH/CJLYobEDn8/h6gP7+vDnDev//fYPpJjNhwg=	.yandex.ru	/	2026-02-15T09:44:39.277Z	338		✓	None			Medium
+bh	EkAiTm90L0EpQnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjEyNiIsICJHb29nbGUgQ2hyb21lIjt2PSIxMjYiGgUieDg2IiIPIjEyNi4wLjY0NzguNjEiKgI/MDoJIldpbmRvd3MiQggiMTAuMC4wIkoEIjY0IlJZIk5vdC9BKUJyYW5kIjt2PSI4LjAuMC4wIiwiQ2hyb21pdW0iO3Y9IjEyNi4wLjY0NzguNjEiLCJHb29nbGUgQ2hyb21lIjt2PSIxMjYuMC42NDc4LjYxIiI=	mc.yandex.ru	/	2025-06-18T06:35:15.322Z	286		✓	None			Medium
+bh	EkAiTm90L0EpQnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjEyNiIsICJHb29nbGUgQ2hyb21lIjt2PSIxMjYiGgUieDg2IiIQIjEyNS4wLjY0MjIuMTQyIioCPzA6CSJXaW5kb3dzIkIIIjEwLjAuMCJKBCI2NCJSXCJHb29nbGUgQ2hyb21lIjt2PSIxMjUuMC42NDIyLjE0MiIsIkNocm9taXVtIjt2PSIxMjUuMC42NDIyLjE0MiIsIk5vdC5BL0JyYW5kIjt2PSIyNC4wLjAuMCIi	mc.yandex.com	/	2025-06-18T18:18:11.900Z	290		✓	None			Medium
+bh	EkEiR29vZ2xlIENocm9tZSI7dj0iMTMxIiwgIkNocm9taXVtIjt2PSIxMzEiLCAiTm90X0EgQnJhbmQiO3Y9IjI0IhoFIng4NiIiECIxMjUuMC42NDIyLjE0MiIqAj8wOgkiV2luZG93cyJCCCIxMC4wLjAiSgQiNjQiUlwiR29vZ2xlIENocm9tZSI7dj0iMTI1LjAuNjQyMi4xNDIiLCJDaHJvbWl1bSI7dj0iMTI1LjAuNjQyMi4xNDIiLCJOb3QuQS9CcmFuZCI7dj0iMjQuMC4wLjAiImCf/Yi8Bg==	.yandex.com	/	2026-02-15T09:49:14.806Z	302		✓	None			Medium
+cf_clearance	LraEgpjYWKTlIUOFxqP8qzPf1hRdIs8NEeanvf0wFvM-1736588683-1.2.1.1-yoUUXBTfLrBxnUze.Z3lOMxVmDU8DoiSeZTY.p3wm7_uOrwowHRsssqHk0lscuJREQR3StUzfZck3T0047DwRwGM6BXm_j3U3oQzKKgToGSlMtdKOCCwCjQvD7pB2PiPg6xKi6iDH_RWt9NP6Q2eZfIDPB9GY6NWFmXAX9orMW8XPn4tvdQPgxE344QISBlMc1AARc3UVTNgYhzaUxmeROdTHGQQnRWEYqIiKUokT5lzLi1aICzMIZq3gt_6zo2_lUD7dxhIy6wCTYKHuBiKeU.wYkjdE9D3evF0dnY2xEAlRlZYcRc_qcVcRcnYWICz6bTFAm_wBmaj4D.sPAs87tj0bhKwgkdYHtKQ1l5TaPDWydwqUPyKqOSJlj2lzzxBVK3HgzNDFNk_eUPwpDPcnwRl80j5IgoGWKCnIBTjKOkLGRogxXl5YZkIxTtPggPc	.leonardo.ru	/	2026-01-11T09:44:38.712Z	523	✓	✓	None	https://leonardo.ru		High
+city	moskow	leonardo.ru	/	2025-11-30T10:09:20.866Z	10		✓	None			Medium
+cityconfirmed	true	leonardo.ru	/	Сеанс	17						Medium
+client	75ae26a2a6c6937b2788f1d384c4a88cfc3f195c	.leonardo.ru	/	2026-02-14T14:18:03.673Z	46						Medium
+count	120	leonardo.ru	/	Сеанс	8						Medium
+font_loaded	YSv1	.yandex.ru	/	2025-11-20T22:06:01.993Z	15						Medium
+gdpr	0	.yandex.ru	/	2026-01-10T15:24:58.000Z	5		✓	None			Medium
+i	LyVK91nkidEqeN4IMxfsY9NoP6Y2MtPnn+jfe/BAgEhcPX4tx7AWOAnXUUWtPk7rsCiexCdMLrc5TTi5mV8Y+YZ3OF4=	.yandex.com	/	2026-02-14T14:46:12.312Z	93		✓	None			Medium
+i	LyVK91nkidEqeN4IMxfsY9NoP6Y2MtPnn+jfe/BAgEhcPX4tx7AWOAnXUUWtPk7rsCiexCdMLrc5TTi5mV8Y+YZ3OF4=	.yandex.ru	/	2026-02-10T18:58:27.122Z	93	✓	✓	None			Medium
+is_gdpr	0	.yandex.ru	/	2026-01-22T18:13:15.634Z	8		✓	None			Medium
+is_gdpr_b	CPeCThDtpAIoAg==	.yandex.ru	/	2026-01-22T18:13:15.634Z	25		✓	None			Medium
+my	YwA=	.yandex.ru	/	2025-12-21T10:23:55.395Z	6		✓	None			Medium
+receive-cookie-deprecation	1	.yandex.com	/	2025-10-26T10:09:21.865Z	27	✓	✓	None	https://leonardo.ru	✓	Medium
+receive-cookie-deprecation	1	.yandex.ru	/	2025-10-26T10:09:45.000Z	27	✓	✓	None	https://leonardo.ru	✓	Medium
+sessar	1.1197.CiBBmaIR4V48IG0jLvcDQI7BO2p8TrT6vtdS3CStCNGvjQ.Ne7iOdbAsqwM8DpKXONKEm4gaA3CriQi4KXekksp7oo	.yandex.ru	/	2026-02-13T19:39:21.783Z	103	✓	✓	None			Medium
+sessionid2	3:1736451565.5.0.1710921309676:UyWolzNJuIyBHDADoB8AKg:1.1.2:1|1918876230.7771247.2.2:7771247.3:1718692556|3:10301041.933941.fakesign0000000000000000000	.yandex.ru	/	2026-02-13T19:39:21.783Z	161	✓	✓	None			Medium
+skid	1182239831734963708	.yandex.ru	/	2026-01-27T14:21:44.645Z	23		✓	None			Medium
+story	true	leonardo.ru	/	2026-02-14T14:51:31.271Z	9						Medium
+storytime	1736518683552	leonardo.ru	/	2026-02-14T14:18:03.553Z	22						Medium
+sync_cookie_ok	synced	.mc.yandex.com	/	2025-01-11T14:46:12.313Z	20		✓	None			Medium
+yabs-sid	218823191736587858	mc.yandex.com	/	Сеанс	26		✓	None			Medium
+yandex_login	aermilov756	.yandex.ru	/	2026-01-09T19:39:21.783Z	23		✓	None			Medium
+yandexuid	1625331491693938971	.yandex.com	/	2026-02-14T14:46:12.312Z	28		✓	None			Medium
+yandexuid	1625331491693938971	.yandex.ru	/	2025-10-09T18:46:38.705Z	28		✓	None			Medium
+yashr	9643596201732319696	.yandex.com	/	2025-11-22T23:54:57.495Z	24	✓	✓	None			Medium
+yashr	7645401351727944844	.yandex.ru	/	2025-10-03T08:40:41.929Z	24	✓	✓	None			Medium
+ymex	1739112376.oyu.1625331491693938971#1758357591.yrts.1726821591	.yandex.com	/	2026-01-10T14:46:12.313Z	65		✓	None			Medium
+ymex	2040835598.yrts.1725475598	.yandex.ru	/	2025-09-04T18:46:38.706Z	30		✓	None			Medium
+yp	1736606776.yu.1625331491693938971	.yandex.com	/	2026-02-14T14:46:12.313Z	35		✓	None			Medium
+yp	1737123211.szm.1_25:1536x864:1536x738	.yandex.ru	/	2026-02-14T14:13:31.149Z	39						Medium
+yuidss	1625331491693938971	.yandex.com	/	2026-02-14T14:46:12.312Z	25		✓	None			Medium
+yuidss	1625331491693938971

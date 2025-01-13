@@ -1,0 +1,78 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgres:15
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: test_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  alembic:
+    build:
+      context: ./alembic
+      dockerfile: Dockerfile
+    container_name: alembic_migrations
+    environment:
+      DB_URL: postgresql://postgres:2525@localhost/leonardo_parser
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./alembic:/app
+    command: ["alembic", "upgrade", "head"]
+
+  parser:
+    build:
+      context: ./parser
+      dockerfile: Dockerfile
+    container_name: parser_service
+    environment:
+      DB_URL: postgresql://postgres:2525@localhost/leonardo_parser
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./parser:/app
+    command: ["python", "category_parser.py"]
+
+  parser_bot:
+    build:
+      context: ./parser_bot
+      dockerfile: Dockerfile
+    container_name: parser_bot_service
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./parser_bot:/app
+    command: ["python", "tg_bot.py"]
+
+  parser_api:
+    build:
+      context: ./parserAPI
+      dockerfile: Dockerfile
+    container_name: parser_api_service
+    environment:
+      DB_URL: postgresql://postgres:2525@localhost/leonardo_parser
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./parserAPI:/app
+    command: ["uvicorn", "parser_api:app", "--host", "0.0.0.0", "--port", "8000"]
+
+volumes:
+  db_data:
